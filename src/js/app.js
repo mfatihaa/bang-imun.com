@@ -35,8 +35,9 @@ input.addEventListener("input", () => {
 // Multipe Title
 var titleText = [
   "Welcome To MyLink",
-  "Muhammad Fatih Aulia",
-  "FrontEnd Web Development",
+  "Muhammad Nur Ali",
+  "Gold International Diamond",
+  "Content Creator - Bang Imun (BAIM)",
 ];
 
 let counter = 0;
